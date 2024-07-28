@@ -51,9 +51,8 @@ Start the Client
 
   
 # Features
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+
+
 ### One to One chat
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
 
